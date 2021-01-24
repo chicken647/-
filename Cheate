@@ -2,7 +2,7 @@
 // @name Krunker  Cheate - by Chicken
 // @description   The best cheat!
 // @version       1.0a
-// @author        Cheate - From Chicken
+// @author        ;) - From Chicken
 // @supportURL    http://bit.do/ChallengerDiscord
 // @homepage      http://bit.do/ChallengerDiscord
 // @iconURL       https://media.discordapp.net/attachments/719789737833005108/762218865274781696/settings.png
@@ -1101,7 +1101,7 @@ class Dogeware {
             menuItemTitle.className = "menuItemTitle"
 
             menuItemTitle.innerHTML = name
-            menuItemIcon.style.backgroundImage = `url("https://media.discordapp.net/attachments/719789737833005108/762218865274781696/settings.png")`
+            menuItemIcon.style.backgroundImage = `url("https://ibb.co/Q9wFLzt")`
 
             menuItem.append(menuItemIcon, menuItemTitle)
             menu.append(menuItem)
@@ -1171,7 +1171,7 @@ class Dogeware {
             style: content => `<style>${content}</style>`,
         };
         let built = `<div id="settHolder">
-        <img src=" " width="90%">
+        <img src="https://cdn.discordapp.com/attachments/700075667319947335/802928265593356298/background-burnt-damaged-grunge.jpg" width="90%">
         <div class="imageButton discordSocial" onmouseenter="playTick()" onclick="openURL('http://bit.do/ChallengerDiscord')"><span style='display:inline'></span></div>`
 
         // fix fugly looking 'built +=' before every builder call
